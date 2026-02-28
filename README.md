@@ -69,7 +69,7 @@ Quick links for:
 ---
 
 ## 👣 Footer
-Design & Development by **JITHU REDDY**
+Design & Development by **Mandal UdayKiran**
 
 ---
 
